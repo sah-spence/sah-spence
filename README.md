@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sah-spence
+- 🧡 I love all things design
 - 👀 I’m interested in FED & UX
 - 🌱 I’m currently learning JS amoungst other things
 - 📫 Best place to reach me is here on github
